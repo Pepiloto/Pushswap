@@ -1,5 +1,5 @@
 # Pushswap
-![C/C++ CI](https://github.com/Pepiloto/Pushswap/workflows/C/C++%20CI/badge.svg?branch=master)
+![Build](https://github.com/Pepiloto/Pushswap/workflows/C/C++%20CI/badge.svg?branch=master)
 
 Pushwap Epitech 2019
 

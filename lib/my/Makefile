@@ -19,7 +19,7 @@ NAME =	libmy.a
 
 IDIR	=	./
 
-CC	=	clang
+CC	=	gcc
 
 ######### Rules ###########
 all: $(NAME)

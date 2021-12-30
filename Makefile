@@ -6,7 +6,7 @@
 ##
 
 ######### FLAGS #########
-CFLAGS	=	-Wall -Wextra -Werror -Wshadow -O3 -finline-functions
+CFLAGS	=	-Wall -Wextra -Wshadow -O3 -finline-functions
 
 CPPFLAGS = -iquote $(IDIR)
 
@@ -25,7 +25,7 @@ NAME = push_swap
 
 IDIR	=	./include
 
-CC	=	clang
+CC	=	gcc
 
 ######### Rules ###########
 all:	$(NAME)

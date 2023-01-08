@@ -6,7 +6,7 @@
 ##
 
 ######### FLAGS #########
-CFLAGS	=	-Wall -Wextra -Werror -Wshadow -O3
+CFLAGS	=	-Wall -Wextra -Wshadow -O3
 
 CPPFLAGS = -iquote $(IDIR)
 
